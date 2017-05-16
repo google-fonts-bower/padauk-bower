@@ -1,17 +1,17 @@
 {
     "name": "padauk-googlefont",
-    "license": null,
+    "license": "OFL",
     "authors": [
-        null
+        "SIL International"
     ],
     "homepage": "https://fonts.google.com/",
     "repository": {
         "type": "git",
         "url": "https://github.com/google-fonts-bower/padauk-bower.git"
     },
-    "description": " font",
+    "description": "Padauk font",
     "keywords": [
         "font",
-        null
+        "SANS_SERIF"
     ]
 }
